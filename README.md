@@ -4,7 +4,7 @@ This project employs deep neural networks to transfer the style of one image to 
 
 Slow_Style implements the solution to an unconstrained optimization problem posed by Gatys et. al. in "A Neural Algorithm for Style Transfer": the problem models the process as a weighted linear expression in the feature and style representation losses corresponding to a content and a style image respectively. Fast_Style implements the machine learning approach to solving the same problem, devised by Justin Johnson et. al., with considerable changes to the architecture used by Gatys, but offering a significant speedup to computation.
 
-This work is a culmination of the efforts of Aditya Chempakasseril, Aisha Dantuluri and Soumyaraj Bose, together named as The Outliers.
+This work is began as the culmination of the efforts of Aditya Chempakasseril, Aisha Dantuluri and Soumyaraj Bose. It is in this repository by Aditya.
 
 Requirements
 ============
